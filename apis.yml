@@ -1,7 +1,12 @@
 aid: hca-holdings
-url: https://raw.githubusercontent.com/api-evangelist/hca-holdings/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/hca-holdings/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.hca-holdings.com
+description: >-
+  HCA Healthcare is one of the largest for-profit operators of healthcare facilities
+  in the world, operating hospitals, surgery centers, freestanding emergency rooms,
+  and urgent care centers.
