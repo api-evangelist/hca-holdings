@@ -22,6 +22,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/HCA-Healthcare
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hca-holdings-inc
   - type: Website
     url: https://hcahealthcare.com/
   - type: Patient Portal
