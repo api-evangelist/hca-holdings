@@ -8,7 +8,7 @@ description: >-
   index tracks the legacy name. No public developer portal or
   production APIs are advertised.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Healthcare
   - Hospitals
