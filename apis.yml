@@ -23,6 +23,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/hca-holdings-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/hca-holdings-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/HCA-Healthcare
   - type: LinkedIn

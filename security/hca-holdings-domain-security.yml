@@ -1,0 +1,22 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: hcahealthcare.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Dec 13 14:52:44 2026 GMT
+  hsts: false
+domains:
+- domain: hcahealthcare.com
+  dnssec: false
+  caa:
+  - 128 issuewild "digicert.com"
+  - 128 issuewild "awstrust.com"
+  - 0 issue "pki.goog"
+  - 128 issue "awstrust.com"
+  - 128 issuewild "identrust.com"
+  - 128 issue "identrust.com"
+  spf: true
+  dmarc: true
+  dmarc_policy: quarantine
