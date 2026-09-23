@@ -1,7 +1,9 @@
 ---
 title: HCA Healthcare (HCA)
 url: https://www.trefis.com/data/companies/HCA
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"HCA Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google

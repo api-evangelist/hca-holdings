@@ -1,7 +1,9 @@
 ---
 title: HCA HCA Healthcare, Inc. Stock Price & Overview
 url: https://seekingalpha.com/symbol/HCA
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"HCA Holdings" press release artificial intelligence'
 position: 3
 source: serpapi-google

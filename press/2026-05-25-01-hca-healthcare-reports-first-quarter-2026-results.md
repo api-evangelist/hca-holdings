@@ -1,7 +1,9 @@
 ---
 title: HCA Healthcare Reports First Quarter 2026 Results
 url: https://www.earningswhispers.com/d/hca
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"HCA Holdings" press release artificial intelligence'
 position: 1
 source: serpapi-google

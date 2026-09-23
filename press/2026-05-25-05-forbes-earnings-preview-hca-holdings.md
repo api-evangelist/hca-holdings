@@ -1,7 +1,9 @@
 ---
 title: 'Forbes Earnings Preview: HCA Holdings'
 url: https://www.forbes.com/sites/narrativescience/2011/10/28/forbes-earnings-preview-hca-holdings/
-date: '2026-05-25'
+published: '2011-10-28'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"HCA Holdings" press release artificial intelligence'
 position: 5
 source: serpapi-google

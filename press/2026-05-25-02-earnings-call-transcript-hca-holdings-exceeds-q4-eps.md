@@ -1,7 +1,9 @@
 ---
 title: 'Earnings call transcript: HCA Holdings exceeds Q4 EPS ...'
 url: https://www.investing.com/news/transcripts/earnings-call-transcript-hca-holdings-exceeds-q4-eps-forecasts-stock-rises-93CH-4480239
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"HCA Holdings" press release artificial intelligence'
 position: 2
 source: serpapi-google
